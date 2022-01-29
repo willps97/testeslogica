@@ -1,0 +1,16 @@
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.AssemblyInfoInputs.cache
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.AssemblyInfo.cs
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.csproj.CoreCompileInputs.cache
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ExercicioFor_2.exe
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ExercicioFor_2.deps.json
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ExercicioFor_2.runtimeconfig.json
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ExercicioFor_2.runtimeconfig.dev.json
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ExercicioFor_2.dll
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ref\ExercicioFor_2.dll
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\bin\Debug\net5.0\ExercicioFor_2.pdb
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.dll
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ref\ExercicioFor_2.dll
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.pdb
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.genruntimeconfig.cache
+D:\LogicaNelioAlves_Curso\ExercicioFor_2\ExercicioFor_2\obj\Debug\net5.0\ExercicioFor_2.csproj.AssemblyReference.cache
