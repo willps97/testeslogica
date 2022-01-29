@@ -1,0 +1,15 @@
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\Exercicio_senha.exe
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\Exercicio_senha.deps.json
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\Exercicio_senha.runtimeconfig.json
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\Exercicio_senha.runtimeconfig.dev.json
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\Exercicio_senha.dll
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\ref\Exercicio_senha.dll
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\bin\Debug\net5.0\Exercicio_senha.pdb
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.GeneratedMSBuildEditorConfig.editorconfig
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.AssemblyInfoInputs.cache
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.AssemblyInfo.cs
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.csproj.CoreCompileInputs.cache
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.dll
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\ref\Exercicio_senha.dll
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.pdb
+D:\LogicaNelioAlves_Curso\Exercicio_senha\Exercicio_senha\obj\Debug\net5.0\Exercicio_senha.genruntimeconfig.cache
